@@ -3,7 +3,7 @@ This is the implementation for [CVPR 2023](https://cvpr2023.thecvf.com/) paper [
 
 Authors: [Utkarsh Mall](https://www.cs.cornell.edu/~utkarshm/), [Bharath Hariharan](http://home.bharathh.info/), [Kavita Bala](https://www.cs.cornell.edu/~kb/)
 
-![CACO](teaset.png)
+![CACO](teaser.png)
 ## Installation
 This codebase is built with and tested with python3.9, and torch 1.7.1. We highly recommend creating environment using anaconda.
 
