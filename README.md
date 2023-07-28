@@ -51,9 +51,9 @@ To train a `resnet-18` model with `10k data` and `caco` loss run the following
 > python3 main_pretrain.py --data_dir ../data/clean_10k_geography/ --base_encoder resnet18 --batch_size 256 --data_mode caco --max_epochs 1000 --schedule 600 800 -d gereric_description
 
 ## A few more things will be released soon.
-- [] Code to download custom dataset using CACo sampling.
-- [] Setup for evaluating on other datasets, BigEarthNet, DynmamicEarthNet, OSCD, and Change Events. 
-- [] 1m training set. 
+- [ ] Code to download custom dataset using CACo sampling.
+- [ ] Setup for evaluating on other datasets, BigEarthNet, DynmamicEarthNet, OSCD, and Change Events. 
+- [ ] 1m training set. 
 
 ## Acknowledgements
 This repository follows the stucture from [SeCo](https://github.com/ServiceNow/seasonal-contrast) and uses same versions of libraries used.
