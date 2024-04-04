@@ -53,7 +53,7 @@ To train a `resnet-18` model with `10k data` and `caco` loss run the following
 ## A few more things will be released soon.
 - [ ] Code to download custom dataset using CACo sampling.
 - [ ] Setup for evaluating on other datasets, BigEarthNet, DynmamicEarthNet, OSCD, and Change Events. 
-- [x] 1[m training set](https://zenodo.org/records/10913174). 
+- [x] [1m training set](https://zenodo.org/records/10913174). 
 
 ## Acknowledgements
 This repository follows the stucture from [SeCo](https://github.com/ServiceNow/seasonal-contrast) and uses same versions of libraries used.
